@@ -1,3 +1,3 @@
 LIVE DEMO HERE: https://pizza-cart-teal.vercel.app/
 
-React, React Router, Redux and Tailwind are used in this project.
+Tech stack for this app includes React Router, Redux, and Tailwind CSS. This application represents my dive into Redux Toolkit and its features.
